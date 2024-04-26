@@ -1,0 +1,50 @@
+type: edu
+files:
+  - name: variable_definition.py
+    visible: true
+    placeholders:
+      - offset: 227
+        length: 1
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 227
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2fleudFYN6AcL8cKIBefEg==
+        selected: true
+        status: Solved
+        is_visible: false
+      - offset: 324
+        length: 10
+        placeholder_text: '# Assign a new value'
+        initial_state:
+          length: 20
+          offset: 326
+        initialized_from_dependency: false
+        encrypted_possible_answer: aH44RH06lGBifeF1BwSpFw==
+        selected: true
+        status: Solved
+        is_visible: false
+      - offset: 444
+        length: 39
+        placeholder_text: '# Assign 2 to both a and b here'
+        initial_state:
+          length: 31
+          offset: 456
+        initialized_from_dependency: false
+        encrypted_possible_answer: TdhlonDmCffsG2FM8D8vaw==
+        selected: true
+        status: Solved
+        is_visible: false
+    encrypted_text: TVXBUmKnUmX68RtSluE2+caq2HyHFGJXAJZ953uFTWDx0o/9U21gZPhqYyRs1Ks0Waspnin8BaNKzCRlDAHHPOx+vIR2PCdp9zT7UhlE+3uWK+qMBQ3kwbY1FhseHSe9o2yHjvt/yagzb+0U+eyrP/Z4tenhNrEcJPvwFDgOq+GZbyCcF+0q5Kyy/Pkw331RZJT/KsYPSM3gFV0IJ1io2N7UNk7bWUIrnEt5y3+5Gl6xW4FeKNEHOqhuSOFsJy2AzPurLv8opon86TulvhDJ4gUClitoSGYEOGotPB0pAZFWujhzh2nFA/pEz3qKxNyn0Z16B9pCDC1nXu+N04YyN0qazebNSs+DGLhfkit+1ifIS8L/wvlIWwWO04FSyvEolg4B+LBHnEzzWssNLEvTDUCcdvvaOAVgTguLihuMnVb9/R/SG/UvqEcMNHMrta2kpGOSSqNSv68TZD0hkhUoOXMVfMjr+XDRKCNcmwu3GMvMv0d6y4p+MF2y2987Zyc9OjeAHztU/BPBtpaprC6tQpAY+CcfdDsaKWimVKsqFp8+5/oPwUpQ/m7xYk6t7lwlueX7ujrQgdEE1rU7tZtByi2NxP4h4GAfnPw6kxR9ePddIS14Xz6EqYbTbajUn8LNDGmjzcDTX2KdZNBzySmaQXV8HYekeuWIhAbRuYTUsl1l4X8UcseLEJyu85bkl4T4yKl+APxq6ybkkDHHYfuVbg==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: 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
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Variable+Definition
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 29 Jan 2024 08:33:40 UTC"
+record: -1

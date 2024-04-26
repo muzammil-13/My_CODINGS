@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: character_escaping.py
+    visible: true
+    placeholders:
+      - offset: 158
+        length: 49
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 159
+        initialized_from_dependency: false
+        encrypted_possible_answer: Y6rmg0t3jrwOMa5wkI3OBaIY8xU1+eI3Ylw1GeLgdk0PDkJceSkwnjnAvn3n1eaO
+        selected: true
+        status: Solved
+        is_visible: false
+    encrypted_text: GjLICC3lrAJ4R/6p6UawXl63bnu8mHFYBeuBh0JH5LX0PNX8IXnCtCVJAzu2AnnhWtqT/QyjS4G0nccDkSxemA9cD0MKA/gGC3DvVE/B+hWicOwa6oIBj+qt4S33dzxOibLtOJwyO3hQv89gZUOKygJKW+747dzQiNEUW4p3FIfptPJQmE9yVXe2Ot495emn+phlSXlHtnrl86RoscH6OgZd/zQ6j0ppmbHRiC2B5Mc=
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: p/vRxugTeR75z2WMybsppd3wEqbNy7yDPpJmZAm9T2vyDtzo0EqV2eqpQcHLKpfmdfGyzU9yGYc0rwLwwylW1y+nQEqaIuvIb/I+yqEjyK2PvwrJQ9LiIwXiW5N0xWohVr7td3iB/SlcmhtCHGgmbFuIOvmwdvrfyZ7uY53dmyYmFjrBCwMxLFOF9ae9WMQTdJlklrWcVOzbSz6QTnxbM/jGAbCKO3TnLWUWYSO38+FMqw3v5naroHBaWmXV6cmFm/3E38JxBCbY3rvtq2ViU/O5CzJUsNkv8IXxOIi5lSGezVYv2ksPvfeJ7ZjpbdsOCS6zhClglgVFVZFQ8iRTEL1Yn+P9uRn+MrqOl4KXqV5E3+moLSqNKo+T3aWcx9t5tJ0QGtSXZd/0g80h8xd2nq3EQFEKki62NIBctlpiYfpMdGD7/g8nH1RJf+ftaZZiUBVfYFZOVJ4SZx9JZ8pmfhp8kKvgzdgQkmyo87nLF8RpOXvbgIUXA3cD4LjaFdPOXqshVoXCIQSfnLxxAeRbH+doh92L23t27275d7CIopk=
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+Character+Escaping
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 31 Jan 2024 08:48:26 UTC"
+record: -1

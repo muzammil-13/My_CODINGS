@@ -1,0 +1,3 @@
+Hello muzammil!
+This is an example for your file written by 'file writing' 
+This a new line cames from 'file appending

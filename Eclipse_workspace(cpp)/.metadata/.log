@@ -1,0 +1,118 @@
+!SESSION 2024-04-08 09:34:01.483 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-04-08 09:35:06.168
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\muzam'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-04-08 09:36:02.773 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product -data C:\Users\muzam\Eclipse_workspace(cpp)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-04-08 09:36:16.554
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\muzam'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:36:56.085
+!MESSAGE Indexed 'part4-evenNums-forLoopIf' (1 sources, 0 headers) in 0.321 sec: 4 declarations; 11 references; 2 unresolved inclusions; 0 syntax errors; 3 unresolved names (17%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:01.492
+!MESSAGE Indexed 'part5-arrayInput-sample' (1 sources, 10 headers) in 0.884 sec: 877 declarations; 1,711 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:03.495
+!MESSAGE Indexed 'part2-swapping(with_temp)' (1 sources, 10 headers) in 0.226 sec: 878 declarations; 1,712 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:07.583
+!MESSAGE Indexed 'part6-Function(noArgs,noRetrnVal)' (1 sources, 10 headers) in 0.192 sec: 880 declarations; 1,713 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:07.787
+!MESSAGE Indexed 'part2-swapping(without_temp)' (1 sources, 10 headers) in 0.199 sec: 877 declarations; 1,714 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:07.979
+!MESSAGE Indexed 'part3-switchSample' (1 sources, 10 headers) in 0.188 sec: 875 declarations; 1,711 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:08.162
+!MESSAGE Indexed 'part6-inserting_CharArrayValues' (1 sources, 10 headers) in 0.172 sec: 876 declarations; 1,707 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:08.334
+!MESSAGE Indexed 'part3-ElseIf-MathematicsChoice' (1 sources, 10 headers) in 0.168 sec: 879 declarations; 1,735 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:08.519
+!MESSAGE Indexed 'part2-sumof2nums' (1 sources, 10 headers) in 0.177 sec: 878 declarations; 1,711 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:08.699
+!MESSAGE Indexed 'part5-ArraySorting-selectionSort' (1 sources, 10 headers) in 0.172 sec: 880 declarations; 1,745 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:08.862
+!MESSAGE Indexed 'sample' (1 sources, 10 headers) in 0.155 sec: 875 declarations; 1,698 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:09.011
+!MESSAGE Indexed 'part3-ifElse-LargNum' (1 sources, 10 headers) in 0.142 sec: 877 declarations; 1,711 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:09.165
+!MESSAGE Indexed 'part4-testing-NestedLoop' (1 sources, 10 headers) in 0.147 sec: 878 declarations; 1,716 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:09.305
+!MESSAGE Indexed 'part4-break-sample' (1 sources, 10 headers) in 0.134 sec: 876 declarations; 1,709 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:09.431
+!MESSAGE Indexed 'part5-arrayInputOutput' (1 sources, 10 headers) in 0.119 sec: 877 declarations; 1,716 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:09.567
+!MESSAGE Indexed 'part5-arrayLimit' (1 sources, 10 headers) in 0.128 sec: 878 declarations; 1,721 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:09.693
+!MESSAGE Indexed 'part6-3by3_MultiDArray' (1 sources, 10 headers) in 0.119 sec: 878 declarations; 1,725 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:09.809
+!MESSAGE Indexed 'part5-sumOfArrayElements' (1 sources, 10 headers) in 0.11 sec: 879 declarations; 1,723 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:09.920
+!MESSAGE Indexed 'part3-ifElse' (1 sources, 10 headers) in 0.105 sec: 876 declarations; 1,708 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:10.022
+!MESSAGE Indexed 'part4-primeNum-flagBreak' (1 sources, 10 headers) in 0.095 sec: 878 declarations; 1,717 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:10.162
+!MESSAGE Indexed 'part6-Function(withArg,withoutRetrnVal)' (1 sources, 10 headers) in 0.134 sec: 884 declarations; 1,714 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:10.306
+!MESSAGE Indexed 'part2-average' (1 sources, 10 headers) in 0.136 sec: 879 declarations; 1,713 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:10.451
+!MESSAGE Indexed 'part6-Function(withoutArgs,withReturnVal)' (1 sources, 10 headers) in 0.138 sec: 881 declarations; 1,714 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:10.603
+!MESSAGE Indexed 'part4-SumofForLoop' (1 sources, 10 headers) in 0.143 sec: 878 declarations; 1,714 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:10.737
+!MESSAGE Indexed 'part6-Function(with_Args,RetrnVal)' (1 sources, 10 headers) in 0.127 sec: 885 declarations; 1,716 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:10.827
+!MESSAGE Indexed 'sample_input' (1 sources, 8 headers) in 0.086 sec: 485 declarations; 1,113 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:10.928
+!MESSAGE Indexed 'part4-forLoop-sample' (1 sources, 10 headers) in 0.095 sec: 876 declarations; 1,707 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:11.074
+!MESSAGE Indexed 'part5-SearchingArrayElements' (1 sources, 10 headers) in 0.14 sec: 880 declarations; 1,728 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:11.175
+!MESSAGE Indexed 'part3-largeAmong3nums' (1 sources, 10 headers) in 0.094 sec: 878 declarations; 1,721 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-08 09:37:11.268
+!MESSAGE Indexed 'part4-continue-sample' (1 sources, 10 headers) in 0.086 sec: 876 declarations; 1,709 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)

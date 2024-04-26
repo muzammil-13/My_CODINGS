@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript basics</title>
+</head>
+<body>
+    <button onClick="show()">Click Me</button>
+    <script>
+        function show(){
+            display()
+            // Click me button action
+            console.log("Button clicked")
+
+            // sum of 2 numbers
+            var a=1
+            var b=2
+            var sum=a+b
+            console.log("sum="+sum)
+
+            // variable value changing using "var"
+            var c=1
+            var c=2
+            console.log("var c="+c)
+
+            // variable value changing using "let"
+            let d=1
+            // let d=2
+            console.log("let d="+d)
+
+            // variable value changing using "const"
+            const e=10
+            // e=11
+            console.log("const e="+e)
+
+            // if else statment: ODD or EVEN
+            if(e%2==0){
+                console.log("Number is even")
+            }else{
+                console.log("Number is odd")
+            }
+
+            // For loop to print 0 to 9
+            for(var i=0;i<10;i++){
+                console.log(i)
+            }
+            // array declaratio
+            var arr=["Apple","orange",12,"mango",23,34]
+            console.log(arr)
+
+            // object decaration
+            var person={
+                Name:"Nikhil",
+                Age:18,
+                Place:"Kottayam"
+            }
+            console.log(person)
+            console.log("Name: "+person.Name)
+            
+            // object's array decaration
+            var persons=[{
+                Name:"Nikhil",
+                Age:18,
+                Place:"Kottayam"
+            },
+            {Name:"sonu",Age:40,Place:"banglore"}]
+
+            console.log(persons)
+            console.log("Name: "+persons[1].Name)
+        }
+        function display(){
+            console.log("Heyy, this is from display() function")
+        }
+    </script>
+</body>
+</html>

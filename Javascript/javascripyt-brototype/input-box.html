@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input box</title>
+</head>
+<body>
+    <input type="text" id="inp">
+    <button onclick="display()">Click here</button>
+    <h1 id="demo">output shows here</h1>
+
+    <script>
+        function display(){
+            var input=document.getElementById("inp").value
+            document.getElementById("demo").innerHTML=input
+            // alert(input)
+            if(input=="crossroads"){
+                alert("you're great!")
+            }
+        }
+    </script>
+</body>
+</html>
